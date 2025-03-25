@@ -16,5 +16,5 @@ descuento_total = (descuento / 100) * monto_compra
 total_a_pagar = monto_compra - descuento_total
 
 #mostrar resultado
-print(f"descuento aplicado : (descuento)%")
-print(f"total a pagar después del descuento: $(total_a_pagar:.2f)")
+print(f"descuento aplicado : {descuento}%")
+print(f"total a pagar después del descuento: ${total_a_pagar:.2f}")
