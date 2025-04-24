@@ -8,9 +8,9 @@ while True:
     print("1. suma")
     print("2. resta")
     print("3. multiplicación")
-    print("4. divicion")
+    print("4. divición")
     print("5. potencia")
-    print("6. raiz cuadrada")
+    print("6. raíz cuadrada")
     print("7. salir")
     #opcion
     opción = int(input("ingrese una opción: "))
@@ -45,7 +45,7 @@ while True:
     elif opción == 6:
         num1 = float(input("ingrese el primer número: "))
         raiz = math.sqrt(num1)
-        print(f"raiz cuadrada = {raiz}")
+        print(f"raíz cuadrada = {raiz}")
     else:
-        print("opcion erronea!!!")
+        print("opción errónea!!!")
 print("gracias por utlizar la calculadora!!!")

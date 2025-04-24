@@ -1,0 +1,24 @@
+{
+    "Docente":{
+        "Nombre":"Carlos",
+        "Apellido":"Gonzalez",
+        "telefono": 3208894758,
+        "correo":"gjeoghie@gmail.com"
+    },
+    "Esrudiantes":[
+        {
+            "Nombre":"Sara",
+            "Apellido":"Perez",
+            "cedula": 1208894758,
+            "correo":"huhugds@gmail.com"
+        },
+        {
+            "Nombre":"Sofia",
+            "Apellido":"Zuares",
+            "cedula": 1209894758,
+            "correo":"lopawkd@gmail.com"
+        }
+    ],
+    "Codigo":1456,
+    "estado":1
+}

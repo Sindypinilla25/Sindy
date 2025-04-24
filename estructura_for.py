@@ -29,3 +29,13 @@ for letras in x:
 for mul in range(1,11):
     print(f"2 x {mul} = {2 * mul}")
 
+# ejemplo 2
+numero= int(input("ingrese un número de tabla :"))
+for mul in range(1,11):
+    print(f"{numero} x {mul} = {numero * mul}")
+
+for i in range(1,11):
+    if i % 2 == 0:
+        print(f"{i} es par")
+
+
